@@ -1,0 +1,1 @@
+From kuberay/operator:nightly
