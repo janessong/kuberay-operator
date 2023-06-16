@@ -1,1 +1,1 @@
-From kuberay/operator:nightly
+From kuberay/operator:v0.5.0
